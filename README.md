@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s%ca%8c%c4%b1%c9%90%ca%87os%d7%9f%c9%90%ca%8c-k-3975b5296/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bly%2bnbwustfelxmhzjwdh2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%ca%8c%c4%b1%c9%90%ca%87os%d7%9f%c9%90%ca%8c-k-3975b5296/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bly%2bnbwustfelxmhzjwdh2g%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s%CA%8C%C4%B1%C9%90%CA%87os%D7%9F%C9%90%CA%8C-k-3975b5296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%ca%8c%c4%b1%c9%90%ca%87os%d7%9f%c9%90%ca%8c-k-3975b5296/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bly%2bnbwustfelxmhzjwdh2g%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
