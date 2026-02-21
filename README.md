@@ -6,17 +6,15 @@
 
 
 
-- 🔭 I’m currently working on [Car_Sevice](https://github.com/SV5623/Car_Service_API)
+- 🔭 I’m currently working on [CarAdvisor](https://github.com/SV5623/CarAdvisor)
 
 - 🌱 I’m currently learning **ASP.NET core**
 
-- 💬 Ask me about **anything, maybe i know somethimg**
+- 💬 Ask me about **anything, maybe i will answer**
 
-- 📫 How to reach me **ksv05623@gmail.com**
+- 📫 How to reach me **ksv05623@proton.me**
 
-- 📄 Know about my experiences [https://github.com/SV5623](https://github.com/SV5623)
-
-- ⚡ Fun fact **I am so lazy that I cure being lazy**
+- ⚡ Fun fact **I am so lazy that I'm lazy being lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
