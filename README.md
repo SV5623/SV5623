@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am so lazy that I'm lazy being lazy**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="linkedin.com/in/sʌıɐʇosןɐʌ-k-3975b5296">Connect with me</a></h3>
 <p align="left">
 </p>
 
