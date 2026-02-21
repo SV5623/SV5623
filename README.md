@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CarAdvisor](https://github.com/SV5623/CarAdvisor)
 
-- 🌱 I’m currently learning **ASP.NET core**
+- 🌱 Trying to learn **ASP.NET core**
 
 - 📫 How to reach me **ksv05623@proton.me**
  
