@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">"Student no more"</h3>
 
-- 🔭 I’m currently working on [CarAdvisor](https://github.com/SV5623/CarAdvisor)
+- 🔭 I’m currently working on [CV_maker](https://github.com/SV5623/special-happiness)
 
 - 🌱 Trying to learn **ASP.NET core**
 
