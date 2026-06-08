@@ -3,9 +3,9 @@
 </div>
 <h3 align="center">"Student no more"</h3>
 
-- 🔭 I’m currently working on [CV_maker](https://github.com/SV5623/special-happiness)
+- 🔭 I’m currently working on [event_app](https://github.com/SV5623/go_learning.git)
 
-- 🌱 Trying to learn **ASP.NET core**
+- 🌱 Trying to learn **ASP.NET core** **Goulang**
 
 - 📫 How to reach me **ksv05623@proton.me**
  
