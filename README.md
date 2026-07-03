@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">About Me<br>🔭 Currently working on <a href="https://github.com/SV5623/go_learning">Event App</a><br>🌱 Learning Go, React, and ASP.NET Core<br>🐧 Linux daily driver<br>📫 Contact: <a href="mailto:ksv05623@proton.me">ksv05623@proton.me</a><br>⚡ I am so lazy that I'm lazy being lazy</p>
+<p align="left">About Me <br>🌱 Learning Go, React, and ASP.NET Core<br>🐧 Linux daily driver<br>📫 Contact: <a href="mailto:ksv05623@proton.me">ksv05623@proton.me</a><br>⚡ I am so lazy that I'm lazy being lazy</p>
 
 ###
 
