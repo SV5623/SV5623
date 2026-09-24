@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://automobiles-start-picking-specification.trycloudflare.com?font=Playwrite+CU+Guides&size=24&letterSpacing=30%25&pause=1000&color=4E8300&center=true&vCenter=true&random=true&width=435&height=80&lines=%25%5E%40%23;5+6+2+3)](https://git.io/typing-svg)
+[![Typing SVG](https://automobiles-start-picking-specification.trycloudflare.com?font=Playwrite+CU+Guides&size=24&letterSpacing=30%25&pause=1000&color=4E8300&center=true&vCenter=true&random=true&width=435&height=80&lines=5++%5E++2++%23;%25++6++%40++3;%25++%5E++%40++%23;5++%5E++%40++%23;%25++6++2++3;5++%5E++2+++3;5++6++2++3;5++6++%40++%23;%25++%5E++2++3)](https://git.io/typing-svg)
 
 </div>
 
