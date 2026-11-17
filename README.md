@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="100" src="https://camo.githubusercontent.com/0c2a41064ffad378d9aed5edbacd4add7a8a58956c0b3aca1c2d092d26a977e2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e4855314d6d38346258426c656d64704e6d5a7963484d784d444e795a334a6b5a4764765a6d3969637a4273614773774f486f7962535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f71365247556d35774d6848616162496272622f67697068792e77656270" />
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://dealer-deemed-assessing-preservation.trycloudflare.com?font=Playwrite+CU+Guides&size=24&letterSpacing=30%25&pause=1000&color=4E8300&center=true&vCenter=true&random=true&width=435&height=80&lines=5++%5E++2++%23;%25++6++%40++3;%25++%5E++%40++%23;5++%5E++%40++%23;%25++6++2++3;5++%5E++2+++3;5++6++2++3;5++6++%40++%23;%25++%5E++2++3)](https://git.io/typing-svg)
 
